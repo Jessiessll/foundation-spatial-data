@@ -60,6 +60,7 @@ There is also an issue of privacy leakage. Private information such as personal 
 
 
 ## Appendix 
+
 [1]	‘Inside Airbnb. Adding data to the debate.’, Inside Airbnb. http://insideairbnb.com (accessed Nov. 23, 2021).
 
 [2]	D’Ignazio C. and Klein L., ‘Chapter Eight: Teach Data Like an Intersectional Feminist!’, in Data Feminism, 2018. Accessed: Nov. 26, 2021. [Online]. Available: https://mitpressonpubpub.mitpress.mit.edu/pub/c5vkehnm/release/5
