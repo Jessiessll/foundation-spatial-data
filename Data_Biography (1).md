@@ -18,12 +18,12 @@ _Please write your answer immediately below the level-3 headers and delete the g
 Murray Cox, an independent digital storyteller, community activist and technologist, conceived the project, compiled the data and analyzed the data with the help of collaborators[1].
 
 ### 2. Why did they collect it?
-They collected the data with the objected to:  
+They collected the data with the objected to: 
 
-Provide data that quantifies the impact of short-term rentals on housing and residential communities and also create a platform using the data to support advocacy for policies to protect cities from the impacts of short-term rentals[1].
+Provide the data that quantifies the impact of short-term rentals on housing and residential communities. It also creates a platform with the data to support advocacy for policies to protect cities from the impacts of short-term rentals[1].
 
 ### 3. How was it collected?
-The data behind the Inside Airbnb site is sourced from publicly available information from the Airbnb site[1]. They use python scripts to scrape listing information available to users of Airbnb website.
+The data of the "Inside Airbnb site" is sourced from the Airbnb site[1]. They use python scripts to scrape listing information available to users of Airbnb website.
 
 The data scraped from Airbnb website are stored as csv file, which is a delimited text file. It has many columns including the listing ID. In Airbnb website, each listing has a unique listing ID which enable the access of additional information about a listing.
 
@@ -32,14 +32,15 @@ There are three parts and contain detailed information about 74,189 listings.
 
 The first part is host information which includes the host name, host photography, a brief profile description, host response condition, host acceptance rate, the date in which the user registered as a host on Airbnb, whether the host is superhost and the numbers of private room listings the host has.
 
-The second part is the basic condition of property, which is composed of name, location, price, the guest capacity, amenities in the property, room type, the number of bathrooms or bedrooms, how long time the renters can book, etc..
-The final part is review condition consisted of the numbers of review, review scores and frequency.
+The second part is the basic condition of property, which is composed of name, location, price, the guest capacity, amenities in the property, room type, the number of bathrooms or bedrooms, how long time the renters can book, etc.
+The final part is review consisted of the numbers of review, review scores and frequency.
+
 ### 5. To what extent is the data 'complete'?
-When we say the data is ‘complete’, there are several requirements need to meet. It needs data to be complete without the systematic omission of data [2]and accurate without incorrect data attributed to systemic errors. The data of Inside Airbnb have deficiency on both sides.
+When we say the data is ‘complete’, there are several requirements need to meet. It needs data to be complete without the systematic omission of data[2] and accurate without incorrect data attributed to systemic errors. The data of Inside Airbnb have deficiency on both sides.
 
 On the one hand, according to the discussion in Q.4, we can find that the data is lack of characteristics information of users such as age, race, income, gender, nationality, sexual orientation, social class, physical condition etc. The omission of these fields will lead to significant structural defects in our data. Because for people in the dominant group, their gender, race, age, sexual orientation or class are so normalized that they are not regarded as a sign of difference. But these will make us ignore the needs and behavior of marginalized groups[3].
 
-On the other hand, the data scraped from Airbnb in Inside Airbnb also has critical limitations. Airbnb claims that the Cox’s scraped data are inaccurate, because not all listings are active[4]. And there is evidence that the data of Inside Airbnb has an issue of incorrect data attributed to systemic errors in the data collection process[5].
+On the other hand, the data scraped from Airbnb in Inside Airbnb also has critical limitations. Airbnb claims that the Cox’s scraped data are inaccurate, because not all listings are active[4]. And there is evidence that the data of Inside Airbnb has an issue of incorrect data attributed to systemic errors in the data collection process[5]. 
 
 ### 6. What kinds of analysis would this support?
 With the dataset we can have several topics to discuss.
